@@ -203,11 +203,11 @@ nav .logo img {
 }
 
 nav ul {
-	margin-top: 45px;
+	margin-top: 40px;
   	text-align: left;
-  	margin-left: 40px;
+  	margin-left: 45px;
   	list-style-type: none;
-  	height: 48vh;
+  	height: 50vh;
   	display: -webkit-box;
   	display: -ms-flexbox;
   	display: flex;
