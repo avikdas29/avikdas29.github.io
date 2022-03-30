@@ -181,11 +181,11 @@ nav em {
 }
 
 nav ul li i {
-	width: 25px;
+	width: 100%;
 }
 
 nav ul li a {
-	font-size: 18px;
+	font-size: 100%;
 }
 
 nav .mini-logo {
